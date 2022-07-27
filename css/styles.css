@@ -57,6 +57,10 @@ a:hover{
   margin: 6.25rem auto 6.25rem auto;
   text-align: left;
 }
+.address{
+  width:70%;
+  margin: 0 auto;
+}
 .intro{
   width: 30%;
   margin:auto;
